@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(166, 212, 166);
+}
+header {
+    text-align: center;
+    font-size: x-large;
+}
+section {
+    margin-top: 15%;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bolder;
+    background: linear-gradient(red, blue);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
